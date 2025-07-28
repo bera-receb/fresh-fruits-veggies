@@ -1,0 +1,41 @@
+
+.bd{
+    position: relative;
+    top: -40px;
+}
+
+.img-2{
+    width: 100%;
+    height: 300px;
+}
+
+
+
+.img-1:hover{
+    opacity: 0.5;
+    transition: opacity 0.3s;
+    transform: scale(1.1);
+}
+.container-1{
+    background-image: url(./weed.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 500px;
+    width: 100%;
+}
+.tastimony-img{
+    width: 80px;
+    height: 80px;
+}
+.i-1{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    left: 113px;
+
+}
+.i-1:hover{
+    transform: scale(1.1);
+  
+    color: aliceblue;
+}
